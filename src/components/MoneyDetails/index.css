@@ -1,0 +1,45 @@
+/* Write your CSS here */
+
+.money-details-img {
+  width: 50px;
+}
+
+.money-details-item {
+  padding: 10px;
+  border-radius: 20px;
+  width: 35%;
+  height: 100px;
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.green-color {
+  background-color: #ecfccb;
+}
+
+.blue-color {
+  background-color: #cffafe;
+}
+
+.violet-color {
+  background-color: #ede9fe;
+}
+
+.detail-container {
+  display: flex;
+  align-items: center;
+}
+
+.balance-para {
+  color: #7e858e;
+  margin: 5px;
+  font-family: Roboto;
+}
+
+.balance-counter {
+  color: #7e858e;
+  font-family: Roboto;
+  margin: 5px;
+}
